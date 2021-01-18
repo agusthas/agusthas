@@ -11,10 +11,10 @@
 ---
 
 <a href="https://github.com/agusthas/agusthas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusthas&repo=agusthas&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agusthas&repo=agusthas&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/agusthas/basicHTMLCSSprojects">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=agusthas&repo=basicHTMLCSSprojects&show_icons=true&theme=tokyonight" />
+<a href="https://github.com/agusthas/onePagePortofolioCSS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=agusthas&repo=onePagePortofolioCSS&show_icons=true&theme=tokyonight" />
 </a>
 
 ---
