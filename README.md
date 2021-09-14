@@ -11,27 +11,25 @@
 - 👯 I’m looking to collaborate on any **Open - Source contribution** <br>
 - 💬 Ask me about anything, I am happy to help
 
-<br>
-
-### Languages
+#### Languages
 
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Frontend Development
+#### Frontend Development
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Backend Development
+#### Backend Development
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Database
+#### Database
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -40,4 +38,10 @@
 
 <i><b>GitHub Stats</b></i>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agusthas&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=agusthas&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Agusthas's GitHub stats](https://github-readme-stats.vercel.app/api?username=agusthas&count_private=true&locale=en&theme=tokyonight)
+
+<br>
+References:
+
+- Top Image: [Ganbare Douki-chan](https://myanimelist.net/anime/49605/Ganbare_Douki-chan)
