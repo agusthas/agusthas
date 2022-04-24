@@ -1,7 +1,7 @@
 <div align="center">
 <img src="images/small.png" alt="Logo">
 
-<h3 align="center">Made Agustha Intaran Sukma</h3>
+<h3 align="center">Made Agustha I.S.</h3>
   <p align="center">
     An undergraduate student passionate about web development technologies and <i>anime</i>
     <br />
